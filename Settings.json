@@ -1,0 +1,19 @@
+{
+    "karuta": "646937666251915264",
+    "guildId": "Your Server ID",
+    "channels": {
+        "v1": "Channel ID for DROPPING Card",
+        "v2": "Channel ID for CHECKKING Cooldown"
+    },
+    "owner": "216282035503890442",
+    "ACCToken": 
+    [
+		"YOUR ACCOUNT TOKEN 1",
+		"YOUR ACCOUNT TOKEN 2"
+    ],
+    "botToken": "BOT TOKEN (NOT ACCOUNT TOKEN)",
+    "webhook": "YOUR WEBHOOK URL",
+    "wishlist": [
+        "Hoshimachi Suisei"
+    ]
+}
